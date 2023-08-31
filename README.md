@@ -3,15 +3,10 @@ Characteristics or behaviors that they share. The goal of customer segmentation 
 Techologies Used:
 
 1)pandas
-
 2)Numpy
-
 3)matplotlib
-
 4)joblib
-
 5)K-Means
-
 6)Sklearn
 
 Project Running:
