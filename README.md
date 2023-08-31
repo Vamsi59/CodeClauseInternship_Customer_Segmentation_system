@@ -1,12 +1,13 @@
 # CodeClauseInternship_Customer_Segmentation_system
 Characteristics or behaviors that they share. The goal of customer segmentation is to gain a deeper understanding of the diverse needs, preferences, and behaviors of different customer groups. This enables businesses to tailor their marketing strategies, products, and services to effectively meet the unique requirements of each segment, ultimately leading to improved customer satisfaction, engagement, and loyalty.
 Techologies Used:
-->pandas
-->Numpy
-->matplotlib
-->joblib
-->K-Means
-->Sklearn
+
+1)pandas
+2)Numpy
+3)matplotlib
+4)joblib
+5)K-Means
+6)Sklearn
 Project Running:
 ![image](https://github.com/Vamsi59/CodeClauseInternship_Customer_Segmentation_system/assets/94848154/c71cade7-7389-4c49-b232-bf6b03670747)
 Output:
